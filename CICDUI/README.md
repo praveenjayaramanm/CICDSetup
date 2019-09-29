@@ -1,6 +1,10 @@
 # CICDUI
 
+<<<<<<< HEAD
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
+=======
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
+>>>>>>> 29bd1007ea3ea1c609517976100e994165ba4f29
 
 ## Development server
 
