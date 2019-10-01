@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": "CICDUI/dist/CICDUI",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0d83c75c-aed7-44a7-ab34-1a8828c00705/resourceGroups/Project-I/providers/Microsoft.Web/sites/CICDUI"
+}
